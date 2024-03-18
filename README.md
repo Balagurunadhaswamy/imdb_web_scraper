@@ -2,7 +2,7 @@
 
 # project_name
 
-[![Bala](https://github.com/Balagurunadhaswamy)
+[![Bala](https://github.com/Balagurunadhaswamy)]
 
 ## Usage
 
