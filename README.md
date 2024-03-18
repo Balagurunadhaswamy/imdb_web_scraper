@@ -1,4 +1,4 @@
-# IMDB Web Scraper.
+# IMDB Web Scraping Engine.
 
 [![Bala](https://github.com/Balagurunadhaswamy)]
 
@@ -26,14 +26,23 @@ Run the following command in the terminal
 ```py
 python scraper.py
 ```
-Accepted Genres during execution.
-All the Genres are from the IMDB website. So please make sure you type in only the provided Genres
 
-Drama, Sci-Fi, Action, Comedy, Adventure, History, Animation, Thriller, Fantasy, Mystery, Short, Romance, War, Family, Horror, Music, Crime, Biography, Documentary, Western, Musical.
+All keywords and genres as shown on the IMDB site presently works with the search engine as shown below
 
-Accepted Keywords.
+![image](https://github.com/Balagurunadhaswamy/imdb_web_scraper/assets/84098148/84675670-8251-460f-88cc-d285eca7ef8e)
 
-Music Video, Non Fiction, Tv Mini Series, 20th Century, Tv Special, Character Name In Title, Independent Film, Love, Murder, Female Nudity, Based On Novel, Number In Title, Year In Title, F Rated, Death, Family Relationships, Teenager, Father Son Relationship, Husband Wife Relationship, Bare Chested Male, Pandemic, Covid 19, Virus, Police, Dog, Coronavirus, Deadly Virus, 2010s, Health Crisis, Public Health Epidemic, Car, Lockdown, National Emergency, Interview
+![image](https://github.com/Balagurunadhaswamy/imdb_web_scraper/assets/84098148/06b0dbad-84f3-48bd-8e0b-97392627b786)
 
-Once the key-word or genre is typed in the program will be executed. After execution the json file will be created in the same location as the program file. 
-The json file would contain the data that was scraped from IMDB website.
+
+Once the key-word or genre is typed in, the search will be executed. After execution the json file will be created at the same root location.
+
+Features:
+
+- Error handled for all routines and logging enabled
+- Automated pagination for all search results.
+- Combination of Genre and Keywords, can be used independently as well
+- Search results generated with single loop of execution for each page. Page progress shown on runtime.
+
+Connect for more : 
+
+![Linkedin](https://www.linkedin.com/in/balagurunadhaswamy-t-s-791410209/)
