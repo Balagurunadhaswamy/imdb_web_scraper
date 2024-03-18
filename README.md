@@ -1,6 +1,6 @@
 # IMDB Web Scraping Engine.
 
-[![Bala](https://github.com/Balagurunadhaswamy)]
+[My Github](https://github.com/Balagurunadhaswamy)
 
 Clone this repository using "git clone https://github.com/Balagurunadhaswamy/imdb_web_scraper.git"
 
@@ -45,4 +45,4 @@ Features:
 
 Connect for more : 
 
-[Linkedin](https://www.linkedin.com/in/balagurunadhaswamy-t-s-791410209/)
+[My Linkedin](https://www.linkedin.com/in/balagurunadhaswamy-t-s-791410209/)
