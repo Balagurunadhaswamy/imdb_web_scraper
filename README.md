@@ -45,4 +45,4 @@ Features:
 
 Connect for more : 
 
-![Linkedin](https://www.linkedin.com/in/balagurunadhaswamy-t-s-791410209/)
+![Linkedin (https://www.linkedin.com/in/balagurunadhaswamy-t-s-791410209/)]
