@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # scraper.py
 # This file contains scrape core and utility functions
-# Author - Akash S
+# Author - Balagurunadhaswamy TS
 ##################################################################
 
 import datetime
